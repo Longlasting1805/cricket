@@ -1,13 +1,58 @@
 .cricket-logo{
   margin-left: 1rem;
   justify-content: center;
+  margin-top: 0rem;
   
 }
 
-.cricket-nav{
-  justify-content: center;
-  background-color: #D6FF60;
-  border-radius: 10%;
+.ncf-logo{
+  margin-top: 2rem;
 }
 
+.logo-description{
+  float: right;
+  margin-right: 1015px;
+  margin-bottom: 10rem;
+  
+}
+.cricket-nav{
+  justify-content: center;
+  background-color: #c9dc92;
+  border-radius: 10%;
+  position: fixed;
+  width: 45%;
+  padding-top: 10px;
+  top: 40px;
+  /* right: 0px; */
+  Left: 688px;
+  height: 40px;
+}
 
+.home{
+  color: rgb(0, 0, 0);
+}
+
+.acusn{
+  color: black;
+}
+
+.livescore{
+  color: black;
+}
+
+.aboutus{
+  color: black;
+}
+
+.contactus{
+  color: black;
+}
+
+.more{
+  color: black;
+}
+
+.donate{
+  color: black;
+  background-color: white;
+}
